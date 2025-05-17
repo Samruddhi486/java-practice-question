@@ -20,7 +20,7 @@ public class CheckPrimeNumber {
         for (int i = 1; i <= N; i++) {
             // check if current number is prime
             if (isPrime(i)) {
-                System.out.print(i + " ");
+                .print(i + " ");
             }
         }
 
